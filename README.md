@@ -27,8 +27,8 @@ I am a passionate Software Developer focused on backend technologies. I speciali
 ### 📈 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=AlperenTopcu&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlperenTopcu&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
 
 ---
