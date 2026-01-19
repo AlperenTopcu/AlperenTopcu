@@ -45,4 +45,4 @@ I am a passionate Software Developer focused on backend technologies. I speciali
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:topcualperen00@gmail.com)
 
 ---
-*“Coding is not just writing lines of code; it is solving problems.”*
+
